@@ -57,10 +57,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mosiah-andrade/mosiah-andrade/output/snake.svg" alt="Snake animation" />
-
-###
