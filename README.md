@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Mosiah and I'm a Wizard from web developer</h2>
-<p> - Estudando na Faculdade Senac-PE - Analise e desenvolvimento de sistemas - 2° Periodo</p>
+<p> - Estudando na Faculdade Senac-PE - Analise e desenvolvimento de sistemas - 3° Periodo</p>
 <p> - Estudando na Brigham Young University Idaho - Web & Software Development - 2° certificado</p>
 
 ###
